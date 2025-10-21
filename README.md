@@ -15,7 +15,7 @@
 - `Git Organizations`: [HANDA](https://github.com/5-HANDA)
 - `기간`: 2024.04.18 ~ 2024.07.03
 - `구성`: BE 2명, FE 2명
-- `핵심 기술 및 라이브러리`: <br>
+- `나의 사용 기술 및 라이브러리`: <br>
 
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"> <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SSE-0078D4?style=for-the-badge&logo=sse&logoColor=white"> <img src="https://img.shields.io/badge/spring JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
@@ -118,9 +118,9 @@
   <img src="https://github.com/2-Nocaffeine/Backend/assets/99894394/d887eb25-a8bf-48bb-b5c7-10eb81390590" width="800">
 </details>
 
-[요구사항 정의서](https://ionized-eagle-cdd.notion.site/996ef5ce8cf34af19b3db85b297033c1?pvs=4)
+[요구사항 정의서](https://sugared-visitor-f84.notion.site/191b33903111457dbf144484a84b3ecd?source=copy_link)
 
-[API 명세서](https://sugared-visitor-f84.notion.site/API-41985b3b6b3c4053bc693370a380bcdc?pvs=4)
+[API 명세서](https://sugared-visitor-f84.notion.site/?source=copy_link)
 <br>
 
 ## ✔️ 시연 영상
